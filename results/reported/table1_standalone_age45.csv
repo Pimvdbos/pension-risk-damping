@@ -1,0 +1,6 @@
+source_section,source_table,current_age,configuration,mean_real_benefit,std_real_benefit,level_cov,delta_level_cov,yoy_volatility
+6.1,1,45,Baseline (no damping),8.2928,9.3117,1.0594,,0.150
+6.1,1,45,Protection return,2.9729,1.4570,0.4104,0.6490,0.056
+6.1,1,45,Lifecycle,4.0731,2.4207,0.5961,0.4633,0.063
+6.1,1,45,Spreading,8.5565,9.1418,0.9705,0.0889,0.058
+6.1,1,45,Reserve,7.5637,7.7092,0.9803,0.0791,0.116

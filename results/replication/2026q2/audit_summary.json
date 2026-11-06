@@ -1,0 +1,18 @@
+{
+  "reported_cells_compared": 93,
+  "reported_cells_matching_rounding": 93,
+  "notebook_code_cells_executed": 13,
+  "notebook_scenarios": 20000,
+  "notebook_package_comparisons": 480,
+  "all_notebook_metrics_agree": true,
+  "standalone_array_comparisons": 18,
+  "all_standalone_arrays_agree": true,
+  "max_notebook_shapley_error": 0.0,
+  "all_paths_finite_and_positive": true,
+  "curve_values_checked": 400,
+  "all_curve_checks_pass": true,
+  "max_shapley_efficiency_residual": 1.1102230246251565e-16,
+  "max_shapley_permutation_difference": 1.6653345369377348e-16,
+  "negative_marginal_level_reductions": 3,
+  "negative_marginal_yoy_reductions": 0
+}

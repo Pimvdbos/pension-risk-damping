@@ -1,0 +1,14 @@
+{
+  "dataset": "CP2022 P scenarioset 20K 2026Q2 (unshocked)",
+  "release_date": "2026-04-14",
+  "source_url": "https://www.dnb.nl/voor-de-sector/open-boek-toezicht/sectoren/pensioenfondsen/dnb-publiceert-definitieve-scenariosets-bij-wet-toekomst-pensioenen/",
+  "download_url": "https://www.dnb.nl/media/4xzlqaij/cp2022-p-scenarioset-20k-2026q2.xlsx",
+  "resolved_download_url": "https://www.dnb.nl/media/4xzlqaij/cp2022-p-scenarioset-20k-2026q2.xlsx",
+  "retrieved_at_utc": "2026-11-06T17:21:44.050910+00:00",
+  "http_status": 200,
+  "content_type": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+  "filename": "cp2022-p-scenarioset-20k-2026q2.xlsx",
+  "file_size_bytes": 179115782,
+  "sha256": "275a336f4bc121fcd2948f3c40e3bc4fd154e5279fcdee472e491720565c658b",
+  "note": "Downloaded for this reconstruction; not the lost original local workbook."
+}

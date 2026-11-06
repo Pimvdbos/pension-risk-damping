@@ -1,0 +1,5 @@
+Mechanism,Mean,CoV,Delta CoV,Tail P95
+Protection return,2.9729,0.4104,0.649,5.758
+Lifecycle,4.0731,0.5961,0.4633,8.6964
+Spreading,8.5565,0.9705,0.0889,24.3283
+Reserve,7.5637,0.9803,0.0791,21.4663

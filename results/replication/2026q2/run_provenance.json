@@ -1,0 +1,43 @@
+{
+  "execution": "full_research_run",
+  "purpose": "Scenario calculation; agreement with the report is assessed separately",
+  "created_at_utc": "2026-11-06T18:08:36.427352+00:00",
+  "data": {
+    "dataset": "CP2022 P scenarioset 20K 2026Q2 (unshocked)",
+    "sha256": "275a336f4bc121fcd2948f3c40e3bc4fd154e5279fcdee472e491720565c658b",
+    "cache_schema": 1
+  },
+  "parameters": {
+    "entry_age": 25,
+    "retirement_age": 68,
+    "end_age": 95,
+    "contribution": 1.0,
+    "projection": 0.03,
+    "spread_years": 5,
+    "fill_rate": 0.25,
+    "reserve_cap": 2.0
+  },
+  "cohort_ages": [
+    25,
+    35,
+    45,
+    55,
+    67
+  ],
+  "scenario_selection": {
+    "first": 0,
+    "count": 20000
+  },
+  "implementation_sha256": "369ae50fe27b8e44f5f66fea98bff6269440bdfcc04da9644f56ae77f864ea26",
+  "extensions": true,
+  "environment": {
+    "python": "3.12.14",
+    "platform": "Windows-11-10.0.26100-SP0",
+    "numpy": "2.5.4",
+    "pandas": "3.1.1",
+    "python-calamine": "0.9.1"
+  },
+  "started_at_utc": "2026-11-06T18:08:35.422440+00:00",
+  "completed_at_utc": "2026-11-06T18:08:47.317721+00:00",
+  "wall_time_seconds": 11.905911100038793
+}

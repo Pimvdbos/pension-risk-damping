@@ -1,0 +1,71 @@
+{
+  "completed_at_utc": "2026-11-06T20:04:17.813021+00:00",
+  "wall_time_seconds": 37.337595999997575,
+  "source_identity": "Content hashes identify the audited source; no parent Git revision is asserted",
+  "report_edition": "34-page portfolio edition with original research pagination",
+  "implementation_sha256": "369ae50fe27b8e44f5f66fea98bff6269440bdfcc04da9644f56ae77f864ea26",
+  "data": {
+    "dataset": "CP2022 P scenarioset 20K 2026Q2 (unshocked)",
+    "sha256": "275a336f4bc121fcd2948f3c40e3bc4fd154e5279fcdee472e491720565c658b",
+    "cache_schema": 1
+  },
+  "report_sha256": "cca708c15978100e448aa0b5e3d4afc62d51dc4b051277dbcd30711000b1d816",
+  "source_hash_normalization": "UTF-8 text with CRLF/CR normalized to LF; data/report/output hashes remain raw bytes",
+  "source_files_sha256": {
+    "src/pension_risk/__init__.py": "cbb3716c01db39110af5265e8582c46f3217085885cc6de78af5e5aec6e34de7",
+    "src/pension_risk/acquisition.py": "4bd054bfe4042df80afb67350129f7e1159559db213024c96def899855b855f7",
+    "src/pension_risk/cli.py": "ef0476d614f0f1ba1c6efe18bd9ed8a5bec65b663ca7beb00cb50282a47d1e54",
+    "src/pension_risk/config.py": "23e00917edc4071b3cea37810fe9e1bcbed8e8d322c420bd77d739d225801142",
+    "src/pension_risk/curves.py": "6495b8b90a7b653f615d2bc5757c5fdaf18999741e18575d91404bcf00c927a6",
+    "src/pension_risk/data.py": "0f89a32f68d9074310dcf74444035227b0c60b98fc282431c65b62e74b53d609",
+    "src/pension_risk/engines.py": "865945e3ca185a8158553a2546b736e2a02f0d94e4e8c719e79eca805dc4c379",
+    "src/pension_risk/metrics.py": "66c500290c8b574fc18af48c7b40503a203b2d81eecc72ca636ba97a838f5f44",
+    "src/pension_risk/replication.py": "786b72d13b073ef7fc78c796b2c69fcf0f1e4d6e3b95f7955ae67c8744b9bba8",
+    "src/pension_risk/shapley.py": "2d19f5b0a8ab6b1a9fb157df4e7263701a9a3087bc5f2b7a871aa1afced3ac24",
+    "src/pension_risk/tables.py": "2a43ca2f0d5d34f49edd583a54e90cd5367fd99b1b73de5560c387a830d8e417",
+    "scripts/audit_replication.py": "f18ac87ecc308ac8c335f0785b8b19c28aea0a33876b17381bb7422f94a10564",
+    "scripts/plot_replicated_results.py": "8a5e3ed50f7b7d9430b1b0aef2be6a5a44f594aaffefa9ae380d98ddba227ebf",
+    "notebooks/appendix_reconstructed.ipynb": "eed7b3a41a92230accfc4f2b278a57cc3fb576c8d9070822dacd1fba26aab88c"
+  },
+  "reported_table_sha256": {
+    "table1_standalone_age45.csv": "e48217fc88f0efc27151b8376fade5ee38d7d4240707aa3fda6836a835e412a0",
+    "table2_shapley_shares.csv": "87d946b840c0b0ea22edd730c9b368622592f2b02590aed73799613532832c4f",
+    "table3_standalone_cohorts.csv": "927ef3cf4d8ea00104008647744a3cf1198ed86916516020acadc9f9049c129c",
+    "table4_baseline_full.csv": "08d367d8e470df65753b106d1c59422dc90937c936f9f5fd8299bddc49beaa16"
+  },
+  "output_sha256": {
+    "appendix_table1_baseline.csv": "e0366552da2308f7268c021f1061f8add886a508e90fdfdc04b1e7fbdb588b7c",
+    "appendix_table2_standalone_age45.csv": "5cacb7c060343ff78a2ec231d24cc0d0176c138e337c46e2015489ae0c64d3fc",
+    "appendix_table3_sequential_age45.csv": "0ac3dfba44c401724e6effcaec01916aab4dd0659fd8066d01cc27bd71653a0d",
+    "appendix_table4_cohort_comparison.csv": "202ed4564a7841ed18158fe54337a9dd389b730b0f30650da9cda6acc41d6a52",
+    "appendix_table5_shapley_values.csv": "79aca0c71f0e1565d73b3368dc25b1a0d18da4098373952dfca77b6015c8ea07",
+    "appendix_table6_shapley_level_shares.csv": "7cb93d174fc35e1c3fef1f2ac81a6da0480ed53472ccc0a7e27e4e9fae3a9762",
+    "appendix_table7_shapley_yoy_shares.csv": "fa73f8e01f589ce9e86c7cd856ec259ee1d9ab2b8a8bde2fefcabdc969b529c4",
+    "audit_summary.json": "66517d331223d6340d269acf1bd9cd263de6ab965b751a52800ab92fe73d8cba",
+    "benefit_quantiles_age45.csv": "4c63a29dba41af547fdc9a7d9726dd87a1f3d69ffbde76a139c9a1ac25d85a29",
+    "coalition_metrics.csv": "8ed1932c49a19055ac2d33e3ce41332a81e8121008ffd41a72150b8a4a86c171",
+    "cohort_baseline_full.csv": "5b43c992a8e09def34b0a708108242bd424f8af7c85c82f21cb230f88c148af2",
+    "curve_reference_checks.csv": "751b3b031cef8fed7db5a22d47444913b71bade56149051a3d82269343573f45",
+    "illustrative_extensions.csv": "2a6c994f7563d491c02728c4b8740f5dd7a167c56d424a181a25708e3c921b1c",
+    "marginal_contributions.csv": "589653a46d93d28ac0fae613e00f1c9b255081ec64d1995185d7cd36f3f17e0e",
+    "notebook_package_comparison.csv": "dc053e49fd526fb0e27471c2eef4272a1229881cc409522342f0e5c64a1cdaa0",
+    "notebook_shapley_comparison.csv": "d37e284f34553f69dd188ad510639df0ef757a5a743455b32361a92a7c30a342",
+    "pair_interactions_age45.csv": "cc608240e6dbac4530232a102f19b1e779ae9db7f93bcbbaa9fe5f8f413b3960",
+    "path_checks.csv": "df9f75135b4482eac1c7d877dc1ed009b77f403ea8f4d7845cce7e4e908a7008",
+    "reported_comparison.csv": "0fe0471d985dfbae401513ee77d1d8035bab54750f0456d8d702974171d012f0",
+    "run_provenance.json": "f6743c99d9027b7a05c1af417f839e5448d1a727b7473f7690f5f950fae38772",
+    "scenario_prefix_stability.csv": "8e419fd6c5e740ff4c123f6950f545bd1e5c7a748e15eb539c06ecb1afb7c746",
+    "shapley_checks.csv": "a40e229dc55ef036d26a6cb5e608ca00a194fbd3fea97d935c5e43130ffbafea",
+    "standalone_array_checks.csv": "7c1d2e4c87030e1c306b974ad6076249cf7054034ff714335663f9b753af3fa1"
+  },
+  "environment": {
+    "python": "3.12.14",
+    "platform": "Windows-11-10.0.26100-SP0",
+    "numpy": "2.5.4",
+    "pandas": "3.1.1",
+    "python-calamine": "0.9.1",
+    "nbformat": "5.11.1"
+  },
+  "scope": "Numerical replication of the fixed recovered model; not validation of real-world policy assumptions",
+  "prefix_diagnostics": "Nested first-N subsets, not independent samples or confidence intervals"
+}

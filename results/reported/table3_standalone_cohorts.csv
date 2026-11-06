@@ -1,0 +1,6 @@
+source_section,source_table,configuration,level_age25,level_age35,level_age45,level_age55,level_age67
+6.3,3,Baseline,1.217,1.161,1.059,0.870,0.617
+6.3,3,Protection return,0.624,0.564,0.410,0.216,0.088
+6.3,3,Lifecycle,0.754,0.707,0.596,0.465,0.298
+6.3,3,Spreading,1.123,1.080,0.971,0.782,0.520
+6.3,3,Reserve,1.142,1.095,0.980,0.799,0.534

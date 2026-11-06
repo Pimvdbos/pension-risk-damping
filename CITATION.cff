@@ -1,0 +1,20 @@
+cff-version: 1.2.0
+message: "Please cite the original academic report when referring to its findings."
+title: "Pension Risk Damping under the Dutch Wtp"
+type: software
+authors:
+  - family-names: "van den Bos"
+    given-names: "Pim"
+version: 0.1.0
+repository-code: "https://github.com/Pimvdbos/pension-risk-damping"
+preferred-citation:
+  type: report
+  title: "Management Control for Financial Institutions: Assignment D"
+  authors:
+    - family-names: "van den Bos"
+      given-names: "Pim"
+  institution:
+    name: "University of Twente, Department of IEBIS"
+  year: 2026
+  month: 7
+  day: 3
